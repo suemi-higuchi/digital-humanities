@@ -13,3 +13,6 @@ http://blogs.lse.ac.uk/impactofsocialsciences/2014/09/03/digital-humanities-clas
 
 How did they make that? | Miriam Posner's Blog
 http://miriamposner.com/blog/how-did-they-make-that/
+
+Projects in Digital Humanities
+http://dhcommons.org/projects
